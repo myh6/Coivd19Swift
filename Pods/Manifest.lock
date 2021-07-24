@@ -1,0 +1,24 @@
+PODS:
+  - Charts (3.5.0):
+    - Charts/Core (= 3.5.0)
+  - Charts/Core (3.5.0)
+  - SDWebImage (5.9.5):
+    - SDWebImage/Core (= 5.9.5)
+  - SDWebImage/Core (5.9.5)
+
+DEPENDENCIES:
+  - Charts
+  - SDWebImage (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Charts: 40a08591df1f8ad5c223ddedfb1a06da92f24f7c
+  SDWebImage: 0b2ba0d56479bf6a45ecddbfd5558bea93150d25
+
+PODFILE CHECKSUM: 46adb19c09d285d3510515044030044564741420
+
+COCOAPODS: 1.10.1
